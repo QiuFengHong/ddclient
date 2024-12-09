@@ -85,10 +85,11 @@ pid=@runstatedir@/ddclient.pid  # record PID in file.
 ## ZoneEdit (zoneedit.com)
 ##
 # server=dynamic.zoneedit.com,          \
-# protocol=zoneedit1,                   \
-# login=your-zoneedit-login,            \
-# password=your-zoneedit-password       \
-# your.any.domain,your-2nd.any.dom
+# protocol=dyndns2,                   \
+# server=dynv6.com,   \
+# login=none,   \
+# password='kKbvxzGzojxrb_bs19yNAnXTayeEA4'       \
+# xiaiwei.dynv6.net
 
 ##
 ## EasyDNS (easydns.com)
